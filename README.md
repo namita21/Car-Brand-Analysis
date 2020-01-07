@@ -73,3 +73,7 @@ Buyers looking for high performance cars may not place as high importance on fue
 Toyota has a low lift value in “fuel economy” compared to a Hyundai, and the lowest "fuel economy" lift of any brand in the top 5. This means that people don’t strongly associate Toyota with fuel economy. This is does not reflect differences in these brands' products: in reality, gas mileage for Hyundai and Toyota models are similar as per car specifications. For example, the 2019 Toyota Corolla gets 32 combined miles per gallon (MPG), while the 2019 Hyundai Elantra gets only 28 combined MPG.
 
 The Toyota car is actually superior to Hyundai in MPG, but this advantage is not perceived by the end customer. Therefore, Marketing and Advertising managers for Toyota should focus in their upcoming campaigns to project a fuel-efficient image of Toyota.
+
+## Code:
+
+https://github.com/snithin13/Car-Brand-Analysis/blob/master/Edmunds%20Scrape%20Script%20Final.ipynb
