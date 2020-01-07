@@ -60,7 +60,7 @@ Ford was the second most frequently mentioned maker in the midsize sedans forum,
 
 In order to increase passion for Ford cars, a product manager at Ford, can afford to take more risks in their approach to building future models, innovating their design and improving performance and comfort. In a highly competitive market, if Ford wants to maintain its popularity it will have to generate more enthusiasm in future buyers. Otherwise, there is a high probability that customers could move on to purchase other brands that are highly associated with the attributes that they desire.
 
-**Marketing/Advertising Managers**
+**For Marketing/Advertising Managers**
 
 * Mazda:
 
