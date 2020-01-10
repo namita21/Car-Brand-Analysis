@@ -2,6 +2,8 @@
 
 This project is part of a learning process on how to undertake Text Analytics. This is one of the first projects that we did and hence we have applied only limited techniques. As we proceed in the learning, more comprehensive techniques and analysis were done.
 
+![alt text](https://github.com/snithin13/Car-Brand-Analysis/blob/master/Images/edmunds_1.jpeg)
+
 Edmunds is a popular online user forum in the US where people discuss about car brands, features etc. The aim here is to use this user generated content to perform a car brand analysis and derive insights. For our analysis, we decided to focus on the mid-size sedan forum.
 
 ## Project Objectives:
